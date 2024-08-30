@@ -1,0 +1,9 @@
+[submodule "external/japi"]
+	path = external/japi
+	url = https://github.com/Kapilarny/JAPI
+[submodule "external/binary"]
+	path = external/binary
+	url = https://github.com/KojoBailey/binary-cpp-library
+[submodule "external/nlohmann"]
+	path = external/nlohmann
+	url = https://github.com/nlohmann/json
